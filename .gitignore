@@ -6,9 +6,9 @@ __pycache__/
 *.pyc
 
 # lecturer's assignment files (not part of the submission)
-assignment_1*.md
-assignment_1*.docx
-assignment_part_2.zip
+/assignment_1 (*).md
+/assignment_1_heb*.docx
+/assignment_part_2.zip
 
 # Word lock files
 ~$*
